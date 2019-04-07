@@ -9,5 +9,5 @@ __Authors:__<br>
    * [Nikolaos Paterakis](https://github.com/PaterakisNikos)
    <br>
    
-[pronunciation](pronunciation/os_project1.pdf)<br>
+[pronunciation](pronunciations/CSO-Homework3-Dec-2017.pdf)<br>
 
