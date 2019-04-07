@@ -1,5 +1,5 @@
 # Linked-List-Assembly
-*Assignment in Computer Systems Organization at AUEB*
+*Assignment in Computer Systems Organization at AUEB during autumn of 2017-2018*
 <br>
 *This projects contains an implementation of a linked list in MIPS32 Assembly*
 <br><br>
