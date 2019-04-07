@@ -6,8 +6,8 @@
 __Authors:__<br>
 
    * [Vasileios Mormoris](https://github.com/VMormoris)<br>
-   * [Nikolaos Paterakis](https://github.com/PaterakisNikos)<br>
+   * [Nikolaos Paterakis](https://github.com/PaterakisNikos)
+   <br>
    
-[pronunciation](pronunciations/CSO-Homework3-Dec-2017.pdf)
-<br>
+[pronunciation](pronunciation/os_project1.pdf)<br>
 
